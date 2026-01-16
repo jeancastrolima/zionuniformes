@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Allow: /Sobre
+Allow: /Servicos
+Allow: /blog
+Allow: /Contato
+Disallow: /db.php
+Disallow: /_header.php
+Disallow: /_footer.php
+Disallow: /_navbar.php
+
+Sitemap: https://conectatisolutions.com.br/sitemap.xml
